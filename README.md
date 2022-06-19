@@ -14,8 +14,8 @@
 
 ## Links
 
-- [Website](www.marcuspapin.com)
-- [Blog](www.marcuspapin.com/articles)
-- [Contact](www.marcuspapin.com/contact)
+- [Website](https://www.marcuspapin.com)
+- [Blog](https://www.marcuspapin.com/articles)
+- [Contact](https://www.marcuspapin.com/contact)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcuspapin)](https://github.com/anuraghazra/github-readme-stats) -->
