@@ -18,4 +18,4 @@
 - [Blog](www.marcuspapin.com/articles)
 - [Contact](www.marcuspapin.com/contact)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcuspapin)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcuspapin)](https://github.com/anuraghazra/github-readme-stats) -->
